@@ -3,6 +3,9 @@
 ## Introduction
 
 The ojbective of this project is to understand how the industry or companies apply SQL to solve real business problems. I use MariaDB as the MySQL database management system and Linux Ubuntu as the operation system. Data files include customer.tbl, lineitem.tbl, part.tbl, partsupp.tbl, region.tbl,supplier.tbl, nation.tbl, and orders.tbl, which are compiled and generated from dbgen file. There are 21 sql files, each of which solves a specific business problem. The detailed description can be found [here](http://www.tpc.org/tpc_documents_current_versions/pdf/tpc-h_v2.17.3.pdf).
+## Installation and Initialization
+
+MariaDB is a drop-in replacement for MySQL. It is easy to install, offers many speed and performance improvements, and is easy to integrate into most MySQL deployments. The steps of installation can be found [here](https://www.liquidweb.com/kb/how-to-install-mariadb-5-5-on-ubuntu-14-04-lts/).
 
 ## Generate and Compile the Data
 
