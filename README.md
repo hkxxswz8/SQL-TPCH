@@ -7,4 +7,4 @@ The ojbective of this project is to understand how the industry or companies app
 ## Installation and Initialization 
 
 1. Download TPC-H Tools [here](http://www.tpc.org/tpc_documents_current_versions/download_programs/tools-download-request.asp?bm_type=TPC-H&bm_vers=2.17.3&mode=CURRENT-ONLY)
-2. Put the [makefile]( SQL-TPCH/makefile ) under dbgen folder. 
+2. Put the [makefile](https://github.com/hkxxswz8/SQL-TPCH/blob/master/makefile) under dbgen folder. 
